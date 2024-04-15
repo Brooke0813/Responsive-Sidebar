@@ -1,5 +1,7 @@
 使用 Html、CSS 和 JavaScript 创建响应式侧边栏菜单
+
 HTML、CSS、およびJavaScriptを使用してレスポンシブなサイドバーメニューを作成する
+
 Create a responsive sidebar menu using HTML, CSS, and JavaScript
 
 ![image](https://github.com/Brooke0813/Responsive-Sidebar/assets/66056411/aed6e653-9998-4d64-81e9-37a22fd542ea)
